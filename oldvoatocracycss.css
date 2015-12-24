@@ -1,0 +1,90 @@
+/* Custom stylesheet for /v/Voatocracy, done mostly by @mikex5 */
+/* gonna be changing this a lot, might as well make it easy to read */
+
+/* Change submit text (just messin' with some stuff for future reference) */
+/* default text can't be deleted, gotta work around it */
+/*
+.submit-text:before {
+    content: "New ";
+}
+.submit-text:after {
+    content: "ion";
+}
+
+.submit-link {
+    display:none;
+}
+
+Add reminder text to submit page 
+.alert {
+    font-weight: bold;
+    color: #f00;
+}
+.alert:after {
+    content: " Submissions must follow all rules in the sidebar, any info you wish to include with your petition can be placed under 'Message'. More information can be found here: https://voat.co/v/Voatocracy/comments/414365";
+}
+
+ Flairs!
+.flair { /*makes submission flairs visible*/
+    color: #fff;
+    display: inline-block;
+}
+.referendum {
+    border-color: #993300;
+    background: #ff9933;
+}
+.petition {
+    border-color: #002299;
+    background: #3366ff;
+}
+.passed {
+    border-color: #006912;
+    background: #1bb270;
+}
+.failed {
+    border-color: #990000;
+    background: #ff3333;
+}
+.rwr { /*random weekly rule, kept just in case */
+    border-color: #777000;
+    background: #daca33;
+}
+.wir {/*week in review*/
+    border-color: #330088;
+    background: #aa33cc;
+}
+.holiday {
+    border-color: #886600;
+    background: #aa6600;
+}
+.disc {/*discussion*/
+    border-color: #880033;
+    background: #cc00aa;
+}
+.titlereq {/*title requests*/
+    border-color: #777000;
+    background: #daca33;
+}
+
+ custom user flairs and titles!
+ Special thanks to @GingerSoul for helping with this!
+a[href^="/user/"]:not(.upvoatsGiven)::after {
+    font-style: italic;
+    background: rgba(0,0,0,0.3);
+    color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #444;
+    border-radius: 2px;
+    margin-left: 0.25em;
+}
+
+ To add more, copy and paste one of the lines below, change the name after "/user/", and add the title, in quotes, after "content:" 
+a[href$="/user/AngryStupidRussian"]:not(.upvoatsGiven)::after { content: " Officer Barbrady "; }
+a[href$="/user/MissiPersekSwal"]:not(.upvoatsGiven)::after { content: " High Priestess of Voatocracy "; }
+
+*/
+
+* {
+    visibility: hidden;
+}
