@@ -1,0 +1,541 @@
+@keyframes spin3d {
+1%   {-webkit-transform: rotate3d(1, 1, 1, 286deg); transform: rotate3d(1, 1, 1, 228deg);}
+2%   {-webkit-transform: rotate3d(1, 1, 1, 228deg); transform: rotate3d(1, 1, 1, 202deg);}
+3%   {-webkit-transform: rotate3d(1, 1, 1, 70deg); transform: rotate3d(1, 1, 1, 229deg);}
+4%   {-webkit-transform: rotate3d(1, 1, 1, 309deg); transform: rotate3d(1, 1, 1, 190deg);}
+5%   {-webkit-transform: rotate3d(1, 1, 1, 335deg); transform: rotate3d(1, 1, 1, 65deg);}
+6%   {-webkit-transform: rotate3d(1, 1, 1, 221deg); transform: rotate3d(1, 1, 1, 217deg);}
+7%   {-webkit-transform: rotate3d(1, 1, 1, 226deg); transform: rotate3d(1, 1, 1, 336deg);}
+8%   {-webkit-transform: rotate3d(1, 1, 1, 298deg); transform: rotate3d(1, 1, 1, 185deg);}
+9%   {-webkit-transform: rotate3d(1, 1, 1, 54deg); transform: rotate3d(1, 1, 1, 19deg);}
+10%   {-webkit-transform: rotate3d(1, 1, 1, 63deg); transform: rotate3d(1, 1, 1, 9deg);}
+11%   {-webkit-transform: rotate3d(1, 1, 1, 104deg); transform: rotate3d(1, 1, 1, 35deg);}
+12%   {-webkit-transform: rotate3d(1, 1, 1, 134deg); transform: rotate3d(1, 1, 1, 239deg);}
+13%   {-webkit-transform: rotate3d(1, 1, 1, 58deg); transform: rotate3d(1, 1, 1, 285deg);}
+14%   {-webkit-transform: rotate3d(1, 1, 1, 328deg); transform: rotate3d(1, 1, 1, 212deg);}
+15%   {-webkit-transform: rotate3d(1, 1, 1, 185deg); transform: rotate3d(1, 1, 1, 252deg);}
+16%   {-webkit-transform: rotate3d(1, 1, 1, 350deg); transform: rotate3d(1, 1, 1, 297deg);}
+17%   {-webkit-transform: rotate3d(1, 1, 1, 265deg); transform: rotate3d(1, 1, 1, 304deg);}
+18%   {-webkit-transform: rotate3d(1, 1, 1, 329deg); transform: rotate3d(1, 1, 1, 140deg);}
+19%   {-webkit-transform: rotate3d(1, 1, 1, 35deg); transform: rotate3d(1, 1, 1, 53deg);}
+20%   {-webkit-transform: rotate3d(1, 1, 1, 163deg); transform: rotate3d(1, 1, 1, 302deg);}
+21%   {-webkit-transform: rotate3d(1, 1, 1, 315deg); transform: rotate3d(1, 1, 1, 356deg);}
+22%   {-webkit-transform: rotate3d(1, 1, 1, 125deg); transform: rotate3d(1, 1, 1, 24deg);}
+23%   {-webkit-transform: rotate3d(1, 1, 1, 276deg); transform: rotate3d(1, 1, 1, 96deg);}
+24%   {-webkit-transform: rotate3d(1, 1, 1, 301deg); transform: rotate3d(1, 1, 1, 54deg);}
+25%   {-webkit-transform: rotate3d(1, 1, 1, 143deg); transform: rotate3d(1, 1, 1, 141deg);}
+26%   {-webkit-transform: rotate3d(1, 1, 1, 223deg); transform: rotate3d(1, 1, 1, 72deg);}
+27%   {-webkit-transform: rotate3d(1, 1, 1, 240deg); transform: rotate3d(1, 1, 1, 120deg);}
+28%   {-webkit-transform: rotate3d(1, 1, 1, 297deg); transform: rotate3d(1, 1, 1, 78deg);}
+29%   {-webkit-transform: rotate3d(1, 1, 1, 144deg); transform: rotate3d(1, 1, 1, 91deg);}
+30%   {-webkit-transform: rotate3d(1, 1, 1, 60deg); transform: rotate3d(1, 1, 1, 256deg);}
+31%   {-webkit-transform: rotate3d(1, 1, 1, 182deg); transform: rotate3d(1, 1, 1, 342deg);}
+32%   {-webkit-transform: rotate3d(1, 1, 1, 105deg); transform: rotate3d(1, 1, 1, 65deg);}
+33%   {-webkit-transform: rotate3d(1, 1, 1, 114deg); transform: rotate3d(1, 1, 1, 87deg);}
+34%   {-webkit-transform: rotate3d(1, 1, 1, 320deg); transform: rotate3d(1, 1, 1, 33deg);}
+35%   {-webkit-transform: rotate3d(1, 1, 1, 292deg); transform: rotate3d(1, 1, 1, 1deg);}
+36%   {-webkit-transform: rotate3d(1, 1, 1, 10deg); transform: rotate3d(1, 1, 1, 248deg);}
+37%   {-webkit-transform: rotate3d(1, 1, 1, 46deg); transform: rotate3d(1, 1, 1, 230deg);}
+38%   {-webkit-transform: rotate3d(1, 1, 1, 43deg); transform: rotate3d(1, 1, 1, 73deg);}
+39%   {-webkit-transform: rotate3d(1, 1, 1, 136deg); transform: rotate3d(1, 1, 1, 192deg);}
+40%   {-webkit-transform: rotate3d(1, 1, 1, 189deg); transform: rotate3d(1, 1, 1, 97deg);}
+41%   {-webkit-transform: rotate3d(1, 1, 1, 330deg); transform: rotate3d(1, 1, 1, 193deg);}
+42%   {-webkit-transform: rotate3d(1, 1, 1, 247deg); transform: rotate3d(1, 1, 1, 202deg);}
+43%   {-webkit-transform: rotate3d(1, 1, 1, 190deg); transform: rotate3d(1, 1, 1, 258deg);}
+44%   {-webkit-transform: rotate3d(1, 1, 1, 303deg); transform: rotate3d(1, 1, 1, 287deg);}
+45%   {-webkit-transform: rotate3d(1, 1, 1, 76deg); transform: rotate3d(1, 1, 1, 193deg);}
+46%   {-webkit-transform: rotate3d(1, 1, 1, 135deg); transform: rotate3d(1, 1, 1, 349deg);}
+47%   {-webkit-transform: rotate3d(1, 1, 1, 102deg); transform: rotate3d(1, 1, 1, 347deg);}
+48%   {-webkit-transform: rotate3d(1, 1, 1, 12deg); transform: rotate3d(1, 1, 1, 5deg);}
+49%   {-webkit-transform: rotate3d(1, 1, 1, 183deg); transform: rotate3d(1, 1, 1, 231deg);}
+50%   {-webkit-transform: rotate3d(1, 1, 1, 206deg); transform: rotate3d(1, 1, 1, 244deg);}
+51%   {-webkit-transform: rotate3d(1, 1, 1, 148deg); transform: rotate3d(1, 1, 1, 288deg);}
+52%   {-webkit-transform: rotate3d(1, 1, 1, 30deg); transform: rotate3d(1, 1, 1, 159deg);}
+53%   {-webkit-transform: rotate3d(1, 1, 1, 43deg); transform: rotate3d(1, 1, 1, 299deg);}
+54%   {-webkit-transform: rotate3d(1, 1, 1, 130deg); transform: rotate3d(1, 1, 1, 84deg);}
+55%   {-webkit-transform: rotate3d(1, 1, 1, 37deg); transform: rotate3d(1, 1, 1, 84deg);}
+56%   {-webkit-transform: rotate3d(1, 1, 1, 305deg); transform: rotate3d(1, 1, 1, 106deg);}
+57%   {-webkit-transform: rotate3d(1, 1, 1, 24deg); transform: rotate3d(1, 1, 1, 141deg);}
+58%   {-webkit-transform: rotate3d(1, 1, 1, 228deg); transform: rotate3d(1, 1, 1, 180deg);}
+59%   {-webkit-transform: rotate3d(1, 1, 1, 145deg); transform: rotate3d(1, 1, 1, 180deg);}
+60%   {-webkit-transform: rotate3d(1, 1, 1, 108deg); transform: rotate3d(1, 1, 1, 348deg);}
+61%   {-webkit-transform: rotate3d(1, 1, 1, 69deg); transform: rotate3d(1, 1, 1, 18deg);}
+62%   {-webkit-transform: rotate3d(1, 1, 1, 132deg); transform: rotate3d(1, 1, 1, 113deg);}
+63%   {-webkit-transform: rotate3d(1, 1, 1, 87deg); transform: rotate3d(1, 1, 1, 283deg);}
+64%   {-webkit-transform: rotate3d(1, 1, 1, 358deg); transform: rotate3d(1, 1, 1, 350deg);}
+65%   {-webkit-transform: rotate3d(1, 1, 1, 334deg); transform: rotate3d(1, 1, 1, 209deg);}
+66%   {-webkit-transform: rotate3d(1, 1, 1, 121deg); transform: rotate3d(1, 1, 1, 141deg);}
+67%   {-webkit-transform: rotate3d(1, 1, 1, 48deg); transform: rotate3d(1, 1, 1, 336deg);}
+68%   {-webkit-transform: rotate3d(1, 1, 1, 31deg); transform: rotate3d(1, 1, 1, 292deg);}
+69%   {-webkit-transform: rotate3d(1, 1, 1, 212deg); transform: rotate3d(1, 1, 1, 140deg);}
+70%   {-webkit-transform: rotate3d(1, 1, 1, 113deg); transform: rotate3d(1, 1, 1, 111deg);}
+71%   {-webkit-transform: rotate3d(1, 1, 1, 176deg); transform: rotate3d(1, 1, 1, 270deg);}
+72%   {-webkit-transform: rotate3d(1, 1, 1, 33deg); transform: rotate3d(1, 1, 1, 96deg);}
+73%   {-webkit-transform: rotate3d(1, 1, 1, 263deg); transform: rotate3d(1, 1, 1, 235deg);}
+74%   {-webkit-transform: rotate3d(1, 1, 1, 337deg); transform: rotate3d(1, 1, 1, 146deg);}
+75%   {-webkit-transform: rotate3d(1, 1, 1, 60deg); transform: rotate3d(1, 1, 1, 169deg);}
+76%   {-webkit-transform: rotate3d(1, 1, 1, 197deg); transform: rotate3d(1, 1, 1, 203deg);}
+77%   {-webkit-transform: rotate3d(1, 1, 1, 228deg); transform: rotate3d(1, 1, 1, 69deg);}
+78%   {-webkit-transform: rotate3d(1, 1, 1, 281deg); transform: rotate3d(1, 1, 1, 203deg);}
+79%   {-webkit-transform: rotate3d(1, 1, 1, 289deg); transform: rotate3d(1, 1, 1, 215deg);}
+80%   {-webkit-transform: rotate3d(1, 1, 1, 61deg); transform: rotate3d(1, 1, 1, 35deg);}
+81%   {-webkit-transform: rotate3d(1, 1, 1, 138deg); transform: rotate3d(1, 1, 1, 133deg);}
+82%   {-webkit-transform: rotate3d(1, 1, 1, 346deg); transform: rotate3d(1, 1, 1, 337deg);}
+83%   {-webkit-transform: rotate3d(1, 1, 1, 25deg); transform: rotate3d(1, 1, 1, 176deg);}
+84%   {-webkit-transform: rotate3d(1, 1, 1, 148deg); transform: rotate3d(1, 1, 1, 113deg);}
+85%   {-webkit-transform: rotate3d(1, 1, 1, 50deg); transform: rotate3d(1, 1, 1, 102deg);}
+86%   {-webkit-transform: rotate3d(1, 1, 1, 168deg); transform: rotate3d(1, 1, 1, 54deg);}
+87%   {-webkit-transform: rotate3d(1, 1, 1, 127deg); transform: rotate3d(1, 1, 1, 264deg);}
+88%   {-webkit-transform: rotate3d(1, 1, 1, 28deg); transform: rotate3d(1, 1, 1, 43deg);}
+89%   {-webkit-transform: rotate3d(1, 1, 1, 243deg); transform: rotate3d(1, 1, 1, 277deg);}
+90%   {-webkit-transform: rotate3d(1, 1, 1, 338deg); transform: rotate3d(1, 1, 1, 252deg);}
+91%   {-webkit-transform: rotate3d(1, 1, 1, 122deg); transform: rotate3d(1, 1, 1, 167deg);}
+92%   {-webkit-transform: rotate3d(1, 1, 1, 97deg); transform: rotate3d(1, 1, 1, 339deg);}
+93%   {-webkit-transform: rotate3d(1, 1, 1, 346deg); transform: rotate3d(1, 1, 1, 17deg);}
+94%   {-webkit-transform: rotate3d(1, 1, 1, 76deg); transform: rotate3d(1, 1, 1, 277deg);}
+95%   {-webkit-transform: rotate3d(1, 1, 1, 14deg); transform: rotate3d(1, 1, 1, 202deg);}
+96%   {-webkit-transform: rotate3d(1, 1, 1, 200deg); transform: rotate3d(1, 1, 1, 323deg);}
+97%   {-webkit-transform: rotate3d(1, 1, 1, 304deg); transform: rotate3d(1, 1, 1, 198deg);}
+98%   {-webkit-transform: rotate3d(1, 1, 1, 246deg); transform: rotate3d(1, 1, 1, 170deg);}
+99%   {-webkit-transform: rotate3d(1, 1, 1, 40deg); transform: rotate3d(1, 1, 1, 103deg);}
+100%   {-webkit-transform: rotate3d(1, 1, 1, 190deg); transform: rotate3d(1, 1, 1, 349deg);}
+}
+@keyframes spinbadly {
+1%   {-webkit-transform: rotate(220deg); -moz-transform: rotate(147deg);}
+2%   {-webkit-transform: rotate(11deg); -moz-transform: rotate(44deg);}
+3%   {-webkit-transform: rotate(259deg); -moz-transform: rotate(234deg);}
+4%   {-webkit-transform: rotate(261deg); -moz-transform: rotate(186deg);}
+5%   {-webkit-transform: rotate(116deg); -moz-transform: rotate(169deg);}
+6%   {-webkit-transform: rotate(230deg); -moz-transform: rotate(226deg);}
+7%   {-webkit-transform: rotate(98deg); -moz-transform: rotate(147deg);}
+8%   {-webkit-transform: rotate(12deg); -moz-transform: rotate(119deg);}
+9%   {-webkit-transform: rotate(350deg); -moz-transform: rotate(137deg);}
+10%   {-webkit-transform: rotate(217deg); -moz-transform: rotate(127deg);}
+11%   {-webkit-transform: rotate(232deg); -moz-transform: rotate(93deg);}
+12%   {-webkit-transform: rotate(157deg); -moz-transform: rotate(21deg);}
+13%   {-webkit-transform: rotate(111deg); -moz-transform: rotate(297deg);}
+14%   {-webkit-transform: rotate(309deg); -moz-transform: rotate(352deg);}
+15%   {-webkit-transform: rotate(184deg); -moz-transform: rotate(151deg);}
+16%   {-webkit-transform: rotate(329deg); -moz-transform: rotate(289deg);}
+17%   {-webkit-transform: rotate(13deg); -moz-transform: rotate(219deg);}
+18%   {-webkit-transform: rotate(259deg); -moz-transform: rotate(197deg);}
+19%   {-webkit-transform: rotate(29deg); -moz-transform: rotate(148deg);}
+20%   {-webkit-transform: rotate(164deg); -moz-transform: rotate(31deg);}
+21%   {-webkit-transform: rotate(224deg); -moz-transform: rotate(95deg);}
+22%   {-webkit-transform: rotate(195deg); -moz-transform: rotate(352deg);}
+23%   {-webkit-transform: rotate(199deg); -moz-transform: rotate(48deg);}
+24%   {-webkit-transform: rotate(145deg); -moz-transform: rotate(144deg);}
+25%   {-webkit-transform: rotate(312deg); -moz-transform: rotate(359deg);}
+26%   {-webkit-transform: rotate(118deg); -moz-transform: rotate(237deg);}
+27%   {-webkit-transform: rotate(333deg); -moz-transform: rotate(45deg);}
+28%   {-webkit-transform: rotate(29deg); -moz-transform: rotate(334deg);}
+29%   {-webkit-transform: rotate(101deg); -moz-transform: rotate(132deg);}
+30%   {-webkit-transform: rotate(69deg); -moz-transform: rotate(18deg);}
+31%   {-webkit-transform: rotate(167deg); -moz-transform: rotate(292deg);}
+32%   {-webkit-transform: rotate(298deg); -moz-transform: rotate(338deg);}
+33%   {-webkit-transform: rotate(273deg); -moz-transform: rotate(357deg);}
+34%   {-webkit-transform: rotate(106deg); -moz-transform: rotate(184deg);}
+35%   {-webkit-transform: rotate(238deg); -moz-transform: rotate(147deg);}
+36%   {-webkit-transform: rotate(77deg); -moz-transform: rotate(142deg);}
+37%   {-webkit-transform: rotate(356deg); -moz-transform: rotate(347deg);}
+38%   {-webkit-transform: rotate(312deg); -moz-transform: rotate(202deg);}
+39%   {-webkit-transform: rotate(105deg); -moz-transform: rotate(300deg);}
+40%   {-webkit-transform: rotate(289deg); -moz-transform: rotate(203deg);}
+41%   {-webkit-transform: rotate(288deg); -moz-transform: rotate(51deg);}
+42%   {-webkit-transform: rotate(251deg); -moz-transform: rotate(324deg);}
+43%   {-webkit-transform: rotate(325deg); -moz-transform: rotate(156deg);}
+44%   {-webkit-transform: rotate(328deg); -moz-transform: rotate(298deg);}
+45%   {-webkit-transform: rotate(215deg); -moz-transform: rotate(121deg);}
+46%   {-webkit-transform: rotate(78deg); -moz-transform: rotate(310deg);}
+47%   {-webkit-transform: rotate(291deg); -moz-transform: rotate(288deg);}
+48%   {-webkit-transform: rotate(61deg); -moz-transform: rotate(146deg);}
+49%   {-webkit-transform: rotate(197deg); -moz-transform: rotate(260deg);}
+50%   {-webkit-transform: rotate(90deg); -moz-transform: rotate(27deg);}
+51%   {-webkit-transform: rotate(348deg); -moz-transform: rotate(183deg);}
+52%   {-webkit-transform: rotate(192deg); -moz-transform: rotate(209deg);}
+53%   {-webkit-transform: rotate(223deg); -moz-transform: rotate(167deg);}
+54%   {-webkit-transform: rotate(118deg); -moz-transform: rotate(190deg);}
+55%   {-webkit-transform: rotate(340deg); -moz-transform: rotate(106deg);}
+56%   {-webkit-transform: rotate(35deg); -moz-transform: rotate(324deg);}
+57%   {-webkit-transform: rotate(228deg); -moz-transform: rotate(53deg);}
+58%   {-webkit-transform: rotate(183deg); -moz-transform: rotate(137deg);}
+59%   {-webkit-transform: rotate(93deg); -moz-transform: rotate(216deg);}
+60%   {-webkit-transform: rotate(68deg); -moz-transform: rotate(220deg);}
+61%   {-webkit-transform: rotate(348deg); -moz-transform: rotate(85deg);}
+62%   {-webkit-transform: rotate(284deg); -moz-transform: rotate(293deg);}
+63%   {-webkit-transform: rotate(350deg); -moz-transform: rotate(160deg);}
+64%   {-webkit-transform: rotate(277deg); -moz-transform: rotate(345deg);}
+65%   {-webkit-transform: rotate(236deg); -moz-transform: rotate(343deg);}
+66%   {-webkit-transform: rotate(276deg); -moz-transform: rotate(151deg);}
+67%   {-webkit-transform: rotate(184deg); -moz-transform: rotate(336deg);}
+68%   {-webkit-transform: rotate(266deg); -moz-transform: rotate(277deg);}
+69%   {-webkit-transform: rotate(181deg); -moz-transform: rotate(313deg);}
+70%   {-webkit-transform: rotate(9deg); -moz-transform: rotate(278deg);}
+71%   {-webkit-transform: rotate(128deg); -moz-transform: rotate(302deg);}
+72%   {-webkit-transform: rotate(323deg); -moz-transform: rotate(156deg);}
+73%   {-webkit-transform: rotate(268deg); -moz-transform: rotate(66deg);}
+74%   {-webkit-transform: rotate(234deg); -moz-transform: rotate(220deg);}
+75%   {-webkit-transform: rotate(42deg); -moz-transform: rotate(342deg);}
+76%   {-webkit-transform: rotate(259deg); -moz-transform: rotate(195deg);}
+77%   {-webkit-transform: rotate(131deg); -moz-transform: rotate(256deg);}
+78%   {-webkit-transform: rotate(213deg); -moz-transform: rotate(349deg);}
+79%   {-webkit-transform: rotate(36deg); -moz-transform: rotate(138deg);}
+80%   {-webkit-transform: rotate(197deg); -moz-transform: rotate(71deg);}
+81%   {-webkit-transform: rotate(106deg); -moz-transform: rotate(301deg);}
+82%   {-webkit-transform: rotate(262deg); -moz-transform: rotate(173deg);}
+83%   {-webkit-transform: rotate(131deg); -moz-transform: rotate(274deg);}
+84%   {-webkit-transform: rotate(48deg); -moz-transform: rotate(283deg);}
+85%   {-webkit-transform: rotate(301deg); -moz-transform: rotate(72deg);}
+86%   {-webkit-transform: rotate(175deg); -moz-transform: rotate(226deg);}
+87%   {-webkit-transform: rotate(275deg); -moz-transform: rotate(263deg);}
+88%   {-webkit-transform: rotate(56deg); -moz-transform: rotate(10deg);}
+89%   {-webkit-transform: rotate(333deg); -moz-transform: rotate(119deg);}
+90%   {-webkit-transform: rotate(227deg); -moz-transform: rotate(47deg);}
+91%   {-webkit-transform: rotate(30deg); -moz-transform: rotate(236deg);}
+92%   {-webkit-transform: rotate(58deg); -moz-transform: rotate(34deg);}
+93%   {-webkit-transform: rotate(142deg); -moz-transform: rotate(9deg);}
+94%   {-webkit-transform: rotate(228deg); -moz-transform: rotate(265deg);}
+95%   {-webkit-transform: rotate(71deg); -moz-transform: rotate(134deg);}
+96%   {-webkit-transform: rotate(237deg); -moz-transform: rotate(291deg);}
+97%   {-webkit-transform: rotate(251deg); -moz-transform: rotate(344deg);}
+98%   {-webkit-transform: rotate(270deg); -moz-transform: rotate(193deg);}
+99%   {-webkit-transform: rotate(296deg); -moz-transform: rotate(88deg);}
+100%   {-webkit-transform: rotate(284deg); -moz-transform: rotate(32deg);}
+}
+@keyframes spinbadlyr {
+1%   {-webkit-transform: rotate(-234deg); -moz-transform: rotate(-45deg);}
+2%   {-webkit-transform: rotate(-136deg); -moz-transform: rotate(-118deg);}
+3%   {-webkit-transform: rotate(-150deg); -moz-transform: rotate(-346deg);}
+4%   {-webkit-transform: rotate(-327deg); -moz-transform: rotate(-147deg);}
+5%   {-webkit-transform: rotate(-280deg); -moz-transform: rotate(-73deg);}
+6%   {-webkit-transform: rotate(-282deg); -moz-transform: rotate(-43deg);}
+7%   {-webkit-transform: rotate(-213deg); -moz-transform: rotate(-299deg);}
+8%   {-webkit-transform: rotate(-166deg); -moz-transform: rotate(-256deg);}
+9%   {-webkit-transform: rotate(-223deg); -moz-transform: rotate(-15deg);}
+10%   {-webkit-transform: rotate(-61deg); -moz-transform: rotate(-205deg);}
+11%   {-webkit-transform: rotate(-328deg); -moz-transform: rotate(-49deg);}
+12%   {-webkit-transform: rotate(-338deg); -moz-transform: rotate(-328deg);}
+13%   {-webkit-transform: rotate(-96deg); -moz-transform: rotate(-226deg);}
+14%   {-webkit-transform: rotate(-90deg); -moz-transform: rotate(-301deg);}
+15%   {-webkit-transform: rotate(-178deg); -moz-transform: rotate(-325deg);}
+16%   {-webkit-transform: rotate(-222deg); -moz-transform: rotate(-246deg);}
+17%   {-webkit-transform: rotate(-260deg); -moz-transform: rotate(-28deg);}
+18%   {-webkit-transform: rotate(-182deg); -moz-transform: rotate(-292deg);}
+19%   {-webkit-transform: rotate(-165deg); -moz-transform: rotate(-213deg);}
+20%   {-webkit-transform: rotate(-122deg); -moz-transform: rotate(-54deg);}
+21%   {-webkit-transform: rotate(-65deg); -moz-transform: rotate(-221deg);}
+22%   {-webkit-transform: rotate(-53deg); -moz-transform: rotate(-160deg);}
+23%   {-webkit-transform: rotate(-20deg); -moz-transform: rotate(-217deg);}
+24%   {-webkit-transform: rotate(-78deg); -moz-transform: rotate(-140deg);}
+25%   {-webkit-transform: rotate(-167deg); -moz-transform: rotate(-12deg);}
+26%   {-webkit-transform: rotate(-61deg); -moz-transform: rotate(-8deg);}
+27%   {-webkit-transform: rotate(-356deg); -moz-transform: rotate(-359deg);}
+28%   {-webkit-transform: rotate(-61deg); -moz-transform: rotate(-305deg);}
+29%   {-webkit-transform: rotate(-335deg); -moz-transform: rotate(-282deg);}
+30%   {-webkit-transform: rotate(-330deg); -moz-transform: rotate(-156deg);}
+31%   {-webkit-transform: rotate(-82deg); -moz-transform: rotate(-299deg);}
+32%   {-webkit-transform: rotate(-160deg); -moz-transform: rotate(-72deg);}
+33%   {-webkit-transform: rotate(-73deg); -moz-transform: rotate(-126deg);}
+34%   {-webkit-transform: rotate(-236deg); -moz-transform: rotate(-113deg);}
+35%   {-webkit-transform: rotate(-285deg); -moz-transform: rotate(-275deg);}
+36%   {-webkit-transform: rotate(-261deg); -moz-transform: rotate(-329deg);}
+37%   {-webkit-transform: rotate(-262deg); -moz-transform: rotate(-87deg);}
+38%   {-webkit-transform: rotate(-311deg); -moz-transform: rotate(-287deg);}
+39%   {-webkit-transform: rotate(-199deg); -moz-transform: rotate(-124deg);}
+40%   {-webkit-transform: rotate(-85deg); -moz-transform: rotate(-162deg);}
+41%   {-webkit-transform: rotate(-50deg); -moz-transform: rotate(-332deg);}
+42%   {-webkit-transform: rotate(-62deg); -moz-transform: rotate(-194deg);}
+43%   {-webkit-transform: rotate(-108deg); -moz-transform: rotate(-115deg);}
+44%   {-webkit-transform: rotate(-110deg); -moz-transform: rotate(-88deg);}
+45%   {-webkit-transform: rotate(-20deg); -moz-transform: rotate(-316deg);}
+46%   {-webkit-transform: rotate(-62deg); -moz-transform: rotate(-286deg);}
+47%   {-webkit-transform: rotate(-15deg); -moz-transform: rotate(-150deg);}
+48%   {-webkit-transform: rotate(-19deg); -moz-transform: rotate(-322deg);}
+49%   {-webkit-transform: rotate(-277deg); -moz-transform: rotate(-270deg);}
+50%   {-webkit-transform: rotate(-114deg); -moz-transform: rotate(-322deg);}
+51%   {-webkit-transform: rotate(-322deg); -moz-transform: rotate(-4deg);}
+52%   {-webkit-transform: rotate(-222deg); -moz-transform: rotate(-235deg);}
+53%   {-webkit-transform: rotate(-301deg); -moz-transform: rotate(-251deg);}
+54%   {-webkit-transform: rotate(-198deg); -moz-transform: rotate(-330deg);}
+55%   {-webkit-transform: rotate(-53deg); -moz-transform: rotate(-264deg);}
+56%   {-webkit-transform: rotate(-127deg); -moz-transform: rotate(-49deg);}
+57%   {-webkit-transform: rotate(-153deg); -moz-transform: rotate(-131deg);}
+58%   {-webkit-transform: rotate(-319deg); -moz-transform: rotate(-5deg);}
+59%   {-webkit-transform: rotate(-85deg); -moz-transform: rotate(-108deg);}
+60%   {-webkit-transform: rotate(-55deg); -moz-transform: rotate(-211deg);}
+61%   {-webkit-transform: rotate(-323deg); -moz-transform: rotate(-46deg);}
+62%   {-webkit-transform: rotate(-146deg); -moz-transform: rotate(-179deg);}
+63%   {-webkit-transform: rotate(-134deg); -moz-transform: rotate(-58deg);}
+64%   {-webkit-transform: rotate(-63deg); -moz-transform: rotate(-307deg);}
+65%   {-webkit-transform: rotate(-174deg); -moz-transform: rotate(-144deg);}
+66%   {-webkit-transform: rotate(-265deg); -moz-transform: rotate(-60deg);}
+67%   {-webkit-transform: rotate(-302deg); -moz-transform: rotate(-165deg);}
+68%   {-webkit-transform: rotate(-80deg); -moz-transform: rotate(-10deg);}
+69%   {-webkit-transform: rotate(-50deg); -moz-transform: rotate(-179deg);}
+70%   {-webkit-transform: rotate(-216deg); -moz-transform: rotate(-290deg);}
+71%   {-webkit-transform: rotate(-329deg); -moz-transform: rotate(-135deg);}
+72%   {-webkit-transform: rotate(-79deg); -moz-transform: rotate(-212deg);}
+73%   {-webkit-transform: rotate(-10deg); -moz-transform: rotate(-146deg);}
+74%   {-webkit-transform: rotate(-247deg); -moz-transform: rotate(-297deg);}
+75%   {-webkit-transform: rotate(-77deg); -moz-transform: rotate(-316deg);}
+76%   {-webkit-transform: rotate(-1deg); -moz-transform: rotate(-279deg);}
+77%   {-webkit-transform: rotate(-231deg); -moz-transform: rotate(-157deg);}
+78%   {-webkit-transform: rotate(-315deg); -moz-transform: rotate(-178deg);}
+79%   {-webkit-transform: rotate(-325deg); -moz-transform: rotate(-326deg);}
+80%   {-webkit-transform: rotate(-58deg); -moz-transform: rotate(-336deg);}
+81%   {-webkit-transform: rotate(-106deg); -moz-transform: rotate(-347deg);}
+82%   {-webkit-transform: rotate(-60deg); -moz-transform: rotate(-41deg);}
+83%   {-webkit-transform: rotate(-284deg); -moz-transform: rotate(-259deg);}
+84%   {-webkit-transform: rotate(-333deg); -moz-transform: rotate(-184deg);}
+85%   {-webkit-transform: rotate(-126deg); -moz-transform: rotate(-265deg);}
+86%   {-webkit-transform: rotate(-5deg); -moz-transform: rotate(-346deg);}
+87%   {-webkit-transform: rotate(-269deg); -moz-transform: rotate(-169deg);}
+88%   {-webkit-transform: rotate(-185deg); -moz-transform: rotate(-86deg);}
+89%   {-webkit-transform: rotate(-161deg); -moz-transform: rotate(-230deg);}
+90%   {-webkit-transform: rotate(-214deg); -moz-transform: rotate(-329deg);}
+91%   {-webkit-transform: rotate(-351deg); -moz-transform: rotate(-328deg);}
+92%   {-webkit-transform: rotate(-229deg); -moz-transform: rotate(-311deg);}
+93%   {-webkit-transform: rotate(-302deg); -moz-transform: rotate(-34deg);}
+94%   {-webkit-transform: rotate(-310deg); -moz-transform: rotate(-147deg);}
+95%   {-webkit-transform: rotate(-110deg); -moz-transform: rotate(-72deg);}
+96%   {-webkit-transform: rotate(-123deg); -moz-transform: rotate(-69deg);}
+97%   {-webkit-transform: rotate(-11deg); -moz-transform: rotate(-62deg);}
+98%   {-webkit-transform: rotate(-80deg); -moz-transform: rotate(-73deg);}
+99%   {-webkit-transform: rotate(-320deg); -moz-transform: rotate(-159deg);}
+100%   {-webkit-transform: rotate(-314deg); -moz-transform: rotate(-50deg);}
+}
+
+@keyframes bkg2 {
+1%   {background-color: red ;}
+2%   {background-color: #FFFFCC ;}
+3%   {background-color: #FF426C ;}
+4%   {background-color: white ;}
+5%   {background-color: black ;}
+6%   {background-color: green ;}
+7%   {background-color: red ;}
+8%   {background-color: #FFFFCC ;}
+9%   {background-color: #FF426C ;}
+10%   {background-color: white ;}
+11%   {background-color: black ;}
+12%   {background-color: green ;}
+13%   {background-color: red ;}
+14%   {background-color: #FFFFCC ;}
+15%   {background-color: #FF426C ;}
+16%   {background-color: white ;}
+17%   {background-color: black ;}
+18%   {background-color: green ;}
+19%   {background-color: red ;}
+20%   {background-color: #FFFFCC ;}
+21%   {background-color: #FF426C ;}
+22%   {background-color: white ;}
+23%   {background-color: black ;}
+24%   {background-color: green ;}
+25%   {background-color: red ;}
+26%   {background-color: #FFFFCC ;}
+27%   {background-color: #FF426C ;}
+28%   {background-color: white ;}
+29%   {background-color: black ;}
+30%   {background-color: green ;}
+31%   {background-color: red ;}
+32%   {background-color: #FFFFCC ;}
+33%   {background-color: #FF426C ;}
+34%   {background-color: white ;}
+35%   {background-color: black ;}
+36%   {background-color: green ;}
+37%   {background-color: red ;}
+38%   {background-color: #FFFFCC ;}
+39%   {background-color: #FF426C ;}
+40%   {background-color: white ;}
+41%   {background-color: black ;}
+42%   {background-color: green ;}
+43%   {background-color: red ;}
+44%   {background-color: #FFFFCC ;}
+45%   {background-color: #FF426C ;}
+46%   {background-color: white ;}
+47%   {background-color: black ;}
+48%   {background-color: green ;}
+49%   {background-color: red ;}
+50%   {background-color: #FFFFCC ;}
+51%   {background-color: #FF426C ;}
+52%   {background-color: white ;}
+53%   {background-color: black ;}
+54%   {background-color: green ;}
+55%   {background-color: red ;}
+56%   {background-color: #FFFFCC ;}
+57%   {background-color: #FF426C ;}
+58%   {background-color: white ;}
+59%   {background-color: black ;}
+60%   {background-color: green ;}
+61%   {background-color: red ;}
+62%   {background-color: #FFFFCC ;}
+63%   {background-color: #FF426C ;}
+64%   {background-color: white ;}
+65%   {background-color: black ;}
+66%   {background-color: green ;}
+67%   {background-color: red ;}
+68%   {background-color: #FFFFCC ;}
+69%   {background-color: #FF426C ;}
+70%   {background-color: white ;}
+71%   {background-color: black ;}
+72%   {background-color: green ;}
+73%   {background-color: red ;}
+74%   {background-color: #FFFFCC ;}
+75%   {background-color: #FF426C ;}
+76%   {background-color: white ;}
+77%   {background-color: black ;}
+78%   {background-color: green ;}
+79%   {background-color: red ;}
+80%   {background-color: #FFFFCC ;}
+81%   {background-color: #FF426C ;}
+82%   {background-color: white ;}
+83%   {background-color: black ;}
+84%   {background-color: green ;}
+85%   {background-color: red ;}
+86%   {background-color: #FFFFCC ;}
+87%   {background-color: #FF426C ;}
+88%   {background-color: white ;}
+89%   {background-color: black ;}
+90%   {background-color: green ;}
+91%   {background-color: red ;}
+92%   {background-color: #FFFFCC ;}
+93%   {background-color: #FF426C ;}
+94%   {background-color: white ;}
+95%   {background-color: black ;}
+96%   {background-color: green ;}
+97%   {background-color: red ;}
+98%   {background-color: #FFFFCC ;}
+99%   {background-color: #FF426C ;}
+100%   {background-color: white ;}
+
+}
+
+
+
+html {
+    transform-style: preserve-3d;
+    animation: spin3d 0.1s infinite;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=3386);
+}
+
+body {
+    animation-name:  blink;
+    text-decoration: blink;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation: spinbadly 3s infinite;
+    color: green !important;
+    transform-style: preserve-3d;
+    animation: spin3d 0.1s infinite;
+    animation: bkg 1s infinite;
+    animation: bkg2 0.3s infinite;
+}
+
+* {
+        transform-style: preserve-3d;
+    animation: spin3d 0.1s infinite} 
+
+
+a {
+    color: green !important;
+    transition: none !important;
+    content: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    animation: blink 1s steps(5, start) infinite !important;
+    transform-style: preserve-3d;
+    animation: spin3d 0.1s infinite;
+}
+
+@keyframes blink {
+to { color: red !important; }
+}
+
+#header-img {
+    animation-name: shake-opacity;
+    animation-duration: 0.25s;
+    animation-iteration-count: infinite;
+}
+
+.sr-list {
+    animation-name: shake-vertical;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.content {
+    animation-name: shake-opacity;
+    background-image: url(http://jonathan.lansey.net/pastimes/eye/Lansey.jpg);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation: spinbadlyr 2s infinite;
+    transform-style: preserve-3d;
+    animation: spin3d 0.1s infinite;
+}
+.even {
+    animation-name: shake-constant;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    background-image: url(http://images4.fanpop.com/image/photos/16300000/Magic-eyes-magic-eye-16383884-2551-1681.jpg);
+}
+.odd {
+    animation-name: shake-chunk;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.side {
+    animation-name: shake-rotate;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+#container {
+    background-image: url(http://d.justpo.st/media/images/2012/02/5cab782120423d411cf81cf871f77063.gif);
+}
+
+#header-banner {
+        background-image: url(http://www.photostuff.co.uk/ster11.jpg);
+    transform-style: preserve-3d;
+    animation: spin3d 0.1s infinite;
+}
+
+.shake,.shake-little,.shake-slow,.shake-hard,.shake-horizontal,.shake-vertical,.shake-rotate,.shake-opacity,.shake-crazy,.shake-chunk{display:inline-block;transform-origin:center center}.shake-freeze,.shake-constant.shake-constant--hover:hover,.shake-trigger:hover .shake-constant.shake-constant--hover{animation-play-state:paused}.shake-freeze:hover,.shake-trigger:hover .shake-freeze,.shake:hover,.shake-trigger:hover .shake,.shake-little:hover,.shake-trigger:hover .shake-little,.shake-slow:hover,.shake-trigger:hover .shake-slow,.shake-hard:hover,.shake-trigger:hover .shake-hard,.shake-horizontal:hover,.shake-trigger:hover .shake-horizontal,.shake-vertical:hover,.shake-trigger:hover .shake-vertical,.shake-rotate:hover,.shake-trigger:hover .shake-rotate,.shake-opacity:hover,.shake-trigger:hover .shake-opacity,.shake-crazy:hover,.shake-trigger:hover .shake-crazy,.shake-chunk:hover,.shake-trigger:hover .shake-chunk{animation-play-state:running}@keyframes shake{2%{transform:translate(1.5px, 1.5px) rotate(-0.5deg)}4%{transform:translate(-1.5px, 1.5px) rotate(1.5deg)}6%{transform:translate(1.5px, 2.5px) rotate(-0.5deg)}8%{transform:translate(1.5px, -0.5px) rotate(0.5deg)}10%{transform:translate(2.5px, 0.5px) rotate(0.5deg)}12%{transform:translate(-1.5px, -0.5px) rotate(1.5deg)}14%{transform:translate(1.5px, 1.5px) rotate(1.5deg)}16%{transform:translate(0.5px, 0.5px) rotate(-0.5deg)}18%{transform:translate(-1.5px, -1.5px) rotate(1.5deg)}20%{transform:translate(1.5px, 2.5px) rotate(1.5deg)}22%{transform:translate(0.5px, 2.5px) rotate(1.5deg)}24%{transform:translate(2.5px, 1.5px) rotate(-0.5deg)}26%{transform:translate(0.5px, 1.5px) rotate(1.5deg)}28%{transform:translate(-0.5px, -1.5px) rotate(-0.5deg)}30%{transform:translate(-0.5px, 1.5px) rotate(-0.5deg)}32%{transform:translate(1.5px, 1.5px) rotate(-0.5deg)}34%{transform:translate(-1.5px, 0.5px) rotate(1.5deg)}36%{transform:translate(2.5px, 0.5px) rotate(-0.5deg)}38%{transform:translate(-0.5px, -0.5px) rotate(0.5deg)}40%{transform:translate(0.5px, -1.5px) rotate(-0.5deg)}42%{transform:translate(0.5px, 1.5px) rotate(1.5deg)}44%{transform:translate(2.5px, 0.5px) rotate(-0.5deg)}46%{transform:translate(2.5px, 0.5px) rotate(1.5deg)}48%{transform:translate(1.5px, 1.5px) rotate(-0.5deg)}50%{transform:translate(-0.5px, -0.5px) rotate(1.5deg)}52%{transform:translate(2.5px, -1.5px) rotate(0.5deg)}54%{transform:translate(0.5px, 2.5px) rotate(1.5deg)}56%{transform:translate(0.5px, 2.5px) rotate(-0.5deg)}58%{transform:translate(1.5px, 0.5px) rotate(-0.5deg)}60%{transform:translate(1.5px, 1.5px) rotate(-0.5deg)}62%{transform:translate(2.5px, -1.5px) rotate(1.5deg)}64%{transform:translate(2.5px, 1.5px) rotate(0.5deg)}66%{transform:translate(1.5px, 2.5px) rotate(1.5deg)}68%{transform:translate(-0.5px, 0.5px) rotate(0.5deg)}70%{transform:translate(-1.5px, 2.5px) rotate(1.5deg)}72%{transform:translate(1.5px, 2.5px) rotate(1.5deg)}74%{transform:translate(-0.5px, 2.5px) rotate(0.5deg)}76%{transform:translate(1.5px, 2.5px) rotate(0.5deg)}78%{transform:translate(2.5px, 0.5px) rotate(0.5deg)}80%{transform:translate(-1.5px, -0.5px) rotate(0.5deg)}82%{transform:translate(-0.5px, -1.5px) rotate(0.5deg)}84%{transform:translate(1.5px, 1.5px) rotate(-0.5deg)}86%{transform:translate(-0.5px, 2.5px) rotate(0.5deg)}88%{transform:translate(-1.5px, 2.5px) rotate(0.5deg)}90%{transform:translate(-0.5px, -0.5px) rotate(-0.5deg)}92%{transform:translate(2.5px, 1.5px) rotate(-0.5deg)}94%{transform:translate(1.5px, 2.5px) rotate(0.5deg)}96%{transform:translate(0.5px, 2.5px) rotate(-0.5deg)}98%{transform:translate(2.5px, 0.5px) rotate(1.5deg)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake:hover,.shake-trigger:hover .shake,.shake.shake-freeze,.shake.shake-constant{animation:shake 100ms ease-in-out infinite}@keyframes shake-little{2%{transform:translate(1px, 1px) rotate(0.5deg)}4%{transform:translate(1px, 1px) rotate(0.5deg)}6%{transform:translate(1px, 1px) rotate(0.5deg)}8%{transform:translate(1px, 1px) rotate(0.5deg)}10%{transform:translate(1px, 1px) rotate(0.5deg)}12%{transform:translate(1px, 0px) rotate(0.5deg)}14%{transform:translate(0px, 1px) rotate(0.5deg)}16%{transform:translate(1px, 0px) rotate(0.5deg)}18%{transform:translate(1px, 0px) rotate(0.5deg)}20%{transform:translate(0px, 0px) rotate(0.5deg)}22%{transform:translate(0px, 0px) rotate(0.5deg)}24%{transform:translate(0px, 1px) rotate(0.5deg)}26%{transform:translate(0px, 1px) rotate(0.5deg)}28%{transform:translate(0px, 1px) rotate(0.5deg)}30%{transform:translate(1px, 1px) rotate(0.5deg)}32%{transform:translate(0px, 1px) rotate(0.5deg)}34%{transform:translate(0px, 1px) rotate(0.5deg)}36%{transform:translate(1px, 0px) rotate(0.5deg)}38%{transform:translate(1px, 1px) rotate(0.5deg)}40%{transform:translate(1px, 0px) rotate(0.5deg)}42%{transform:translate(1px, 1px) rotate(0.5deg)}44%{transform:translate(0px, 0px) rotate(0.5deg)}46%{transform:translate(1px, 0px) rotate(0.5deg)}48%{transform:translate(1px, 1px) rotate(0.5deg)}50%{transform:translate(0px, 0px) rotate(0.5deg)}52%{transform:translate(1px, 1px) rotate(0.5deg)}54%{transform:translate(0px, 0px) rotate(0.5deg)}56%{transform:translate(0px, 1px) rotate(0.5deg)}58%{transform:translate(1px, 1px) rotate(0.5deg)}60%{transform:translate(0px, 0px) rotate(0.5deg)}62%{transform:translate(0px, 0px) rotate(0.5deg)}64%{transform:translate(0px, 0px) rotate(0.5deg)}66%{transform:translate(0px, 1px) rotate(0.5deg)}68%{transform:translate(1px, 1px) rotate(0.5deg)}70%{transform:translate(0px, 0px) rotate(0.5deg)}72%{transform:translate(0px, 0px) rotate(0.5deg)}74%{transform:translate(0px, 0px) rotate(0.5deg)}76%{transform:translate(0px, 1px) rotate(0.5deg)}78%{transform:translate(0px, 0px) rotate(0.5deg)}80%{transform:translate(1px, 1px) rotate(0.5deg)}82%{transform:translate(0px, 0px) rotate(0.5deg)}84%{transform:translate(1px, 0px) rotate(0.5deg)}86%{transform:translate(1px, 1px) rotate(0.5deg)}88%{transform:translate(1px, 1px) rotate(0.5deg)}90%{transform:translate(1px, 1px) rotate(0.5deg)}92%{transform:translate(1px, 1px) rotate(0.5deg)}94%{transform:translate(0px, 1px) rotate(0.5deg)}96%{transform:translate(0px, 1px) rotate(0.5deg)}98%{transform:translate(0px, 1px) rotate(0.5deg)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-little:hover,.shake-trigger:hover .shake-little,.shake-little.shake-freeze,.shake-little.shake-constant{animation:shake-little 100ms ease-in-out infinite}@keyframes shake-slow{2%{transform:translate(2px, -9px) rotate(2.5deg)}4%{transform:translate(-4px, 5px) rotate(-2.5deg)}6%{transform:translate(-8px, 8px) rotate(3.5deg)}8%{transform:translate(-7px, 4px) rotate(-1.5deg)}10%{transform:translate(7px, 0px) rotate(1.5deg)}12%{transform:translate(3px, 8px) rotate(-0.5deg)}14%{transform:translate(4px, 4px) rotate(0.5deg)}16%{transform:translate(-4px, -4px) rotate(3.5deg)}18%{transform:translate(-8px, -7px) rotate(3.5deg)}20%{transform:translate(-9px, 8px) rotate(2.5deg)}22%{transform:translate(-9px, -5px) rotate(-2.5deg)}24%{transform:translate(4px, -7px) rotate(-2.5deg)}26%{transform:translate(-1px, 3px) rotate(1.5deg)}28%{transform:translate(-3px, -7px) rotate(3.5deg)}30%{transform:translate(6px, -9px) rotate(2.5deg)}32%{transform:translate(8px, -5px) rotate(-2.5deg)}34%{transform:translate(7px, 8px) rotate(1.5deg)}36%{transform:translate(2px, 5px) rotate(-2.5deg)}38%{transform:translate(-6px, 0px) rotate(2.5deg)}40%{transform:translate(9px, 7px) rotate(-2.5deg)}42%{transform:translate(-2px, -2px) rotate(-0.5deg)}44%{transform:translate(0px, -6px) rotate(-2.5deg)}46%{transform:translate(-5px, 2px) rotate(1.5deg)}48%{transform:translate(-8px, -7px) rotate(3.5deg)}50%{transform:translate(-5px, -6px) rotate(-2.5deg)}52%{transform:translate(8px, 1px) rotate(-2.5deg)}54%{transform:translate(-1px, -1px) rotate(-2.5deg)}56%{transform:translate(5px, -1px) rotate(2.5deg)}58%{transform:translate(-6px, -8px) rotate(-2.5deg)}60%{transform:translate(5px, 5px) rotate(3.5deg)}62%{transform:translate(-4px, -2px) rotate(1.5deg)}64%{transform:translate(-5px, 7px) rotate(3.5deg)}66%{transform:translate(7px, 4px) rotate(0.5deg)}68%{transform:translate(-5px, -2px) rotate(-2.5deg)}70%{transform:translate(1px, 3px) rotate(-1.5deg)}72%{transform:translate(-6px, 0px) rotate(2.5deg)}74%{transform:translate(1px, 9px) rotate(2.5deg)}76%{transform:translate(10px, -5px) rotate(-2.5deg)}78%{transform:translate(-5px, 4px) rotate(3.5deg)}80%{transform:translate(-6px, 1px) rotate(0.5deg)}82%{transform:translate(9px, 10px) rotate(2.5deg)}84%{transform:translate(-1px, 5px) rotate(-1.5deg)}86%{transform:translate(4px, 1px) rotate(2.5deg)}88%{transform:translate(-5px, -7px) rotate(1.5deg)}90%{transform:translate(-8px, -2px) rotate(0.5deg)}92%{transform:translate(10px, -9px) rotate(-0.5deg)}94%{transform:translate(7px, 6px) rotate(-0.5deg)}96%{transform:translate(6px, 1px) rotate(-2.5deg)}98%{transform:translate(5px, 0px) rotate(1.5deg)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-slow:hover,.shake-trigger:hover .shake-slow,.shake-slow.shake-freeze,.shake-slow.shake-constant{animation:shake-slow 5s ease-in-out infinite}@keyframes shake-hard{2%{transform:translate(2px, -5px) rotate(2.5deg)}4%{transform:translate(4px, 6px) rotate(-1.5deg)}6%{transform:translate(-5px, 3px) rotate(-2.5deg)}8%{transform:translate(-8px, 7px) rotate(3.5deg)}10%{transform:translate(-2px, -8px) rotate(3.5deg)}12%{transform:translate(-9px, -1px) rotate(1.5deg)}14%{transform:translate(1px, -8px) rotate(-0.5deg)}16%{transform:translate(-3px, 10px) rotate(-1.5deg)}18%{transform:translate(9px, -4px) rotate(0.5deg)}20%{transform:translate(4px, 8px) rotate(2.5deg)}22%{transform:translate(3px, 2px) rotate(-0.5deg)}24%{transform:translate(-5px, 6px) rotate(2.5deg)}26%{transform:translate(-7px, -6px) rotate(0.5deg)}28%{transform:translate(3px, 0px) rotate(2.5deg)}30%{transform:translate(8px, -8px) rotate(2.5deg)}32%{transform:translate(-9px, -8px) rotate(2.5deg)}34%{transform:translate(-9px, 3px) rotate(2.5deg)}36%{transform:translate(-2px, 7px) rotate(2.5deg)}38%{transform:translate(8px, 7px) rotate(-1.5deg)}40%{transform:translate(4px, 0px) rotate(-1.5deg)}42%{transform:translate(-4px, -9px) rotate(-0.5deg)}44%{transform:translate(0px, -4px) rotate(2.5deg)}46%{transform:translate(4px, 2px) rotate(2.5deg)}48%{transform:translate(10px, -9px) rotate(2.5deg)}50%{transform:translate(3px, -6px) rotate(2.5deg)}52%{transform:translate(1px, 6px) rotate(0.5deg)}54%{transform:translate(3px, -1px) rotate(-1.5deg)}56%{transform:translate(-1px, -9px) rotate(0.5deg)}58%{transform:translate(7px, -4px) rotate(-0.5deg)}60%{transform:translate(2px, 0px) rotate(2.5deg)}62%{transform:translate(-5px, 3px) rotate(0.5deg)}64%{transform:translate(6px, -8px) rotate(3.5deg)}66%{transform:translate(1px, -3px) rotate(2.5deg)}68%{transform:translate(10px, 1px) rotate(1.5deg)}70%{transform:translate(0px, 7px) rotate(-0.5deg)}72%{transform:translate(-9px, 6px) rotate(3.5deg)}74%{transform:translate(8px, 0px) rotate(-0.5deg)}76%{transform:translate(0px, 5px) rotate(0.5deg)}78%{transform:translate(6px, 6px) rotate(-0.5deg)}80%{transform:translate(4px, 3px) rotate(-2.5deg)}82%{transform:translate(8px, -2px) rotate(3.5deg)}84%{transform:translate(0px, -8px) rotate(1.5deg)}86%{transform:translate(-2px, -8px) rotate(2.5deg)}88%{transform:translate(10px, -7px) rotate(2.5deg)}90%{transform:translate(2px, 10px) rotate(-0.5deg)}92%{transform:translate(-9px, 4px) rotate(2.5deg)}94%{transform:translate(-3px, 1px) rotate(1.5deg)}96%{transform:translate(-2px, -1px) rotate(0.5deg)}98%{transform:translate(7px, -9px) rotate(3.5deg)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-hard:hover,.shake-trigger:hover .shake-hard,.shake-hard.shake-freeze,.shake-hard.shake-constant{animation:shake-hard 100ms ease-in-out infinite}@keyframes shake-horizontal{2%{transform:translate(4px, 0) rotate(0)}4%{transform:translate(7px, 0) rotate(0)}6%{transform:translate(-2px, 0) rotate(0)}8%{transform:translate(-7px, 0) rotate(0)}10%{transform:translate(-1px, 0) rotate(0)}12%{transform:translate(-2px, 0) rotate(0)}14%{transform:translate(1px, 0) rotate(0)}16%{transform:translate(-8px, 0) rotate(0)}18%{transform:translate(-5px, 0) rotate(0)}20%{transform:translate(9px, 0) rotate(0)}22%{transform:translate(-5px, 0) rotate(0)}24%{transform:translate(6px, 0) rotate(0)}26%{transform:translate(2px, 0) rotate(0)}28%{transform:translate(2px, 0) rotate(0)}30%{transform:translate(-5px, 0) rotate(0)}32%{transform:translate(-7px, 0) rotate(0)}34%{transform:translate(10px, 0) rotate(0)}36%{transform:translate(1px, 0) rotate(0)}38%{transform:translate(-2px, 0) rotate(0)}40%{transform:translate(4px, 0) rotate(0)}42%{transform:translate(-8px, 0) rotate(0)}44%{transform:translate(5px, 0) rotate(0)}46%{transform:translate(9px, 0) rotate(0)}48%{transform:translate(6px, 0) rotate(0)}50%{transform:translate(-9px, 0) rotate(0)}52%{transform:translate(7px, 0) rotate(0)}54%{transform:translate(-9px, 0) rotate(0)}56%{transform:translate(-7px, 0) rotate(0)}58%{transform:translate(-8px, 0) rotate(0)}60%{transform:translate(3px, 0) rotate(0)}62%{transform:translate(-7px, 0) rotate(0)}64%{transform:translate(6px, 0) rotate(0)}66%{transform:translate(-4px, 0) rotate(0)}68%{transform:translate(-2px, 0) rotate(0)}70%{transform:translate(6px, 0) rotate(0)}72%{transform:translate(-9px, 0) rotate(0)}74%{transform:translate(7px, 0) rotate(0)}76%{transform:translate(2px, 0) rotate(0)}78%{transform:translate(-8px, 0) rotate(0)}80%{transform:translate(2px, 0) rotate(0)}82%{transform:translate(2px, 0) rotate(0)}84%{transform:translate(-4px, 0) rotate(0)}86%{transform:translate(-7px, 0) rotate(0)}88%{transform:translate(4px, 0) rotate(0)}90%{transform:translate(-6px, 0) rotate(0)}92%{transform:translate(-8px, 0) rotate(0)}94%{transform:translate(-3px, 0) rotate(0)}96%{transform:translate(4px, 0) rotate(0)}98%{transform:translate(-8px, 0) rotate(0)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-horizontal:hover,.shake-trigger:hover .shake-horizontal,.shake-horizontal.shake-freeze,.shake-horizontal.shake-constant{animation:shake-horizontal 100ms ease-in-out infinite}@keyframes shake-vertical{2%{transform:translate(0, 6px) rotate(0)}4%{transform:translate(0, -1px) rotate(0)}6%{transform:translate(0, -7px) rotate(0)}8%{transform:translate(0, -1px) rotate(0)}10%{transform:translate(0, 9px) rotate(0)}12%{transform:translate(0, 1px) rotate(0)}14%{transform:translate(0, 3px) rotate(0)}16%{transform:translate(0, 6px) rotate(0)}18%{transform:translate(0, 0px) rotate(0)}20%{transform:translate(0, 2px) rotate(0)}22%{transform:translate(0, 1px) rotate(0)}24%{transform:translate(0, 3px) rotate(0)}26%{transform:translate(0, 4px) rotate(0)}28%{transform:translate(0, 0px) rotate(0)}30%{transform:translate(0, -8px) rotate(0)}32%{transform:translate(0, 6px) rotate(0)}34%{transform:translate(0, 6px) rotate(0)}36%{transform:translate(0, -4px) rotate(0)}38%{transform:translate(0, 2px) rotate(0)}40%{transform:translate(0, -8px) rotate(0)}42%{transform:translate(0, -9px) rotate(0)}44%{transform:translate(0, -3px) rotate(0)}46%{transform:translate(0, 0px) rotate(0)}48%{transform:translate(0, -7px) rotate(0)}50%{transform:translate(0, 0px) rotate(0)}52%{transform:translate(0, 3px) rotate(0)}54%{transform:translate(0, -4px) rotate(0)}56%{transform:translate(0, 3px) rotate(0)}58%{transform:translate(0, -9px) rotate(0)}60%{transform:translate(0, 9px) rotate(0)}62%{transform:translate(0, -6px) rotate(0)}64%{transform:translate(0, 0px) rotate(0)}66%{transform:translate(0, -4px) rotate(0)}68%{transform:translate(0, 1px) rotate(0)}70%{transform:translate(0, 5px) rotate(0)}72%{transform:translate(0, 0px) rotate(0)}74%{transform:translate(0, -6px) rotate(0)}76%{transform:translate(0, -3px) rotate(0)}78%{transform:translate(0, 3px) rotate(0)}80%{transform:translate(0, 6px) rotate(0)}82%{transform:translate(0, 2px) rotate(0)}84%{transform:translate(0, -3px) rotate(0)}86%{transform:translate(0, 1px) rotate(0)}88%{transform:translate(0, 1px) rotate(0)}90%{transform:translate(0, 10px) rotate(0)}92%{transform:translate(0, -2px) rotate(0)}94%{transform:translate(0, -2px) rotate(0)}96%{transform:translate(0, -6px) rotate(0)}98%{transform:translate(0, -9px) rotate(0)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-vertical:hover,.shake-trigger:hover .shake-vertical,.shake-vertical.shake-freeze,.shake-vertical.shake-constant{animation:shake-vertical 100ms ease-in-out infinite}@keyframes shake-rotate{2%{transform:translate(0, 0) rotate(3.5deg)}4%{transform:translate(0, 0) rotate(4.5deg)}6%{transform:translate(0, 0) rotate(1.5deg)}8%{transform:translate(0, 0) rotate(2.5deg)}10%{transform:translate(0, 0) rotate(3.5deg)}12%{transform:translate(0, 0) rotate(0.5deg)}14%{transform:translate(0, 0) rotate(-5.5deg)}16%{transform:translate(0, 0) rotate(-1.5deg)}18%{transform:translate(0, 0) rotate(1.5deg)}20%{transform:translate(0, 0) rotate(6.5deg)}22%{transform:translate(0, 0) rotate(3.5deg)}24%{transform:translate(0, 0) rotate(6.5deg)}26%{transform:translate(0, 0) rotate(-0.5deg)}28%{transform:translate(0, 0) rotate(7.5deg)}30%{transform:translate(0, 0) rotate(6.5deg)}32%{transform:translate(0, 0) rotate(-3.5deg)}34%{transform:translate(0, 0) rotate(-1.5deg)}36%{transform:translate(0, 0) rotate(3.5deg)}38%{transform:translate(0, 0) rotate(7.5deg)}40%{transform:translate(0, 0) rotate(-0.5deg)}42%{transform:translate(0, 0) rotate(3.5deg)}44%{transform:translate(0, 0) rotate(7.5deg)}46%{transform:translate(0, 0) rotate(7.5deg)}48%{transform:translate(0, 0) rotate(3.5deg)}50%{transform:translate(0, 0) rotate(0.5deg)}52%{transform:translate(0, 0) rotate(2.5deg)}54%{transform:translate(0, 0) rotate(5.5deg)}56%{transform:translate(0, 0) rotate(2.5deg)}58%{transform:translate(0, 0) rotate(-4.5deg)}60%{transform:translate(0, 0) rotate(-4.5deg)}62%{transform:translate(0, 0) rotate(7.5deg)}64%{transform:translate(0, 0) rotate(0.5deg)}66%{transform:translate(0, 0) rotate(2.5deg)}68%{transform:translate(0, 0) rotate(2.5deg)}70%{transform:translate(0, 0) rotate(5.5deg)}72%{transform:translate(0, 0) rotate(5.5deg)}74%{transform:translate(0, 0) rotate(-2.5deg)}76%{transform:translate(0, 0) rotate(7.5deg)}78%{transform:translate(0, 0) rotate(2.5deg)}80%{transform:translate(0, 0) rotate(-6.5deg)}82%{transform:translate(0, 0) rotate(-0.5deg)}84%{transform:translate(0, 0) rotate(2.5deg)}86%{transform:translate(0, 0) rotate(5.5deg)}88%{transform:translate(0, 0) rotate(0.5deg)}90%{transform:translate(0, 0) rotate(-0.5deg)}92%{transform:translate(0, 0) rotate(-1.5deg)}94%{transform:translate(0, 0) rotate(-0.5deg)}96%{transform:translate(0, 0) rotate(0.5deg)}98%{transform:translate(0, 0) rotate(-4.5deg)}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-rotate:hover,.shake-trigger:hover .shake-rotate,.shake-rotate.shake-freeze,.shake-rotate.shake-constant{animation:shake-rotate 100ms ease-in-out infinite}@keyframes shake-opacity{10%{transform:translate(-4px, 4px) rotate(-1.5deg);opacity:0.25}20%{transform:translate(-1px, 2px) rotate(0.5deg);opacity:1}30%{transform:translate(2px, -4px) rotate(-1.5deg);opacity:0.03}40%{transform:translate(-1px, -2px) rotate(1.5deg);opacity:0.55}50%{transform:translate(5px, -4px) rotate(1.5deg);opacity:0.09}60%{transform:translate(-1px, 1px) rotate(-1.5deg);opacity:0.97}70%{transform:translate(4px, 1px) rotate(0.5deg);opacity:0.96}80%{transform:translate(3px, 2px) rotate(2.5deg);opacity:0.83}90%{transform:translate(-2px, -4px) rotate(-1.5deg);opacity:0.09}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-opacity:hover,.shake-trigger:hover .shake-opacity,.shake-opacity.shake-freeze,.shake-opacity.shake-constant{animation:shake-opacity 0.5s ease-in-out infinite}@keyframes shake-crazy{10%{transform:translate(-10px, -19px) rotate(6deg);opacity:0.47}20%{transform:translate(-11px, 10px) rotate(5deg);opacity:0.82}30%{transform:translate(17px, -3px) rotate(-9deg);opacity:0.34}40%{transform:translate(11px, 19px) rotate(5deg);opacity:0.4}50%{transform:translate(-11px, 13px) rotate(1deg);opacity:0.97}60%{transform:translate(17px, -16px) rotate(7deg);opacity:0.24}70%{transform:translate(-10px, -12px) rotate(-6deg);opacity:0.56}80%{transform:translate(13px, -19px) rotate(-4deg);opacity:0.96}90%{transform:translate(-18px, -11px) rotate(3deg);opacity:0.49}0%,100%{transform:translate(0, 0) rotate(0)}}.shake-crazy:hover,.shake-trigger:hover .shake-crazy,.shake-crazy.shake-freeze,.shake-crazy.shake-constant{animation:shake-crazy 100ms ease-in-out infinite}@keyframes shake-chunk{2%{transform:translate(5px, 2px) rotate(-12deg)}4%{transform:translate(-6px, 3px) rotate(1deg)}6%{transform:translate(3px, 6px) rotate(14deg)}8%{transform:translate(1px, 8px) rotate(1deg)}10%{transform:translate(-5px, 10px) rotate(0deg)}12%{transform:translate(-11px, 2px) rotate(7deg)}14%{transform:translate(4px, 15px) rotate(11deg)}16%{transform:translate(4px, -8px) rotate(15deg)}18%{transform:translate(-5px, 10px) rotate(1deg)}20%{transform:translate(-1px, 3px) rotate(15deg)}22%{transform:translate(-8px, 5px) rotate(-6deg)}24%{transform:translate(-1px, -9px) rotate(8deg)}26%{transform:translate(9px, 11px) rotate(-13deg)}28%{transform:translate(-7px, 4px) rotate(9deg)}30%{transform:translate(8px, 14px) rotate(9deg)}32%{transform:translate(-4px, 11px) rotate(-11deg)}34%{transform:translate(14px, 11px) rotate(-8deg)}36%{transform:translate(-13px, -8px) rotate(13deg)}38%{transform:translate(-12px, 1px) rotate(-13deg)}0%,40%,100%{transform:translate(0, 0) rotate(0)}}.shake-chunk:hover,.shake-trigger:hover .shake-chunk,.shake-chunk.shake-freeze,.shake-chunk.shake-constant{animation:shake-chunk 4s ease-in-out infinite}
+
+
+
+
+
+
+put this on with it and see what happens.
+
+img, h1, h2, h3, h4, p { -webkit-animation-name: spin; -webkit-animation-duration: 400ms; -webkit-animation-iteration-count: infinite; -webkit-animation-timing-function: linear; -moz-animation-name: spin; -moz-animation-duration: 400ms; -moz-animation-iteration-count: infinite; -moz-animation-timing-function: linear; -ms-animation-name: spin; -ms-animation-duration: 400ms; -ms-animation-iteration-count: infinite; -ms-animation-timing-function: linear; animation-name: spin; animation-duration: 400ms; animation-iteration-count: infinite; animation-timing-function: linear;} @-ms-keyframes spin { from { -ms-transform: rotate(0deg); } to { -ms-transform: rotate(360deg); } } @-moz-keyframes spin { from { -moz-transform: rotate(0deg); } to { -moz-transform: rotate(360deg); } } @-webkit-keyframes spin { from { -webkit-transform: rotate(0deg); } to { -webkit-transform: rotate(360deg); } } @keyframes spin { from { transform:rotate(0deg); } to { transform:rotate(360deg); } }
+
+"No. Not tonight," Charlie cried as he buried his tears in his pillow.
+
+"Oh yes, tonight. Tonight, just like yesterday, and the day before that, and the day before that, and a hundred nights stretching before that ending at the day you came to live with me. Tonight, just like tomorrow." And with that, Willy Wonka removed his pants with a smirk. Usually, Charlie's parents and grandparents had been forced to watch, but Willy had killed them all and used their remains as seasoning for a new type of candy, Scrumdidllyumptious Green Soylet Surprise. Tonight would be Charlie's first night alone.
+
+"Please, Mr. Wonka, please don't!" Charlie gave out one last sob of beligerrence, but the Candyman tore off the young boy's trousers with no senses of regret. "Let's see, what do we have hear today? Is there a treat for me? I most certainly hope there is," said Mr.Wonka as we delved his thumb and two fingers into Charlie's anus. Forcing them in until they were at the knuckle, Willy moved his hand around, as if he was searching for something. Then, his hand stopped, suddenly.
+
+"EUREKA! I found it!" Removing his fingers, Charlie saw that firmly clutched in Mr. Wonka's hand was an everlasting gobstopper that Wonka had placed in there last night. Taking a lick, Mr. Wonka declared "It tastes just as delicious as the day I made it, although I don't know how I got so much corn on the shell formula." Wonka said the last line with a wink at Charlie, as if he expected him to laugh.
+
+"Oh well, time for business." And with that, Willy Wonka dropped the gobstopper to his side and began to slide his PENIS into Charlie's now-loose asshole. Charlie let out a small tear and he began to grunt with every thrust. He must escape this madness. He must kill Willy Wonka.
+
+But there were no knives in his home, in his prison. There were no guns or swords or matches, or anything. Everything that was needed was done for you by an oompa-loompa.
+
+"Charlie, in a few minutes I'm going to place this in your mouth. I think you should like it, it's flavored with an exlusive mix of Charlie Bucket chocolate. Thanks for not wiping, baby."
+
+Charlie had given himself poor anal hygeiene in an attempt to scare Wonka away, but Willy ignored it and fucked him all the same, except now with more facials.
+
+Charlie desperatly wanted out of this hell, and by now he was willing to go through any plan he could in order to escape. And that's when he saw it. Next to Wonka's shaking knees was a gobstopper. Charlie moved his hands back as if to play with Willy, but as soon as he was close enough, he grabbed the gobstopper and swallowed it hole. The taste was revolting, but he had grown used to the taste and smell of his own anal production, so it passed into his throat with no problem. And in his throat is where it lodged.
+
+By the time Willy Wonka had figured out Charlie was dead, he had already came in the young child's asshole, wondering why the child did not let loose a barage of tears telling him to pull out.
+
+Placing his PENIS in Charlie's mouth, he noticed the boy's flesh to be unusually cold and his tongue to be unresponsive. Fucking him orally anyway, Willy Wonka knew exactly what to do with his apprentice.
+
+He called out to the worker oompa-loompas and told them to take care of the body as they pleased, to which the oompa loompas chuckled and exchanged mischevious smiles. At once, he signaled for the Chief Loompa. Making motions, Wonka spoke to him.
+
+"Another one has died."
+
+"So, what should I do, sir?"
+
+"Distribute the memory eraser chocolate, again,"
+
+"And then, boss?"
+
+"Tell the world that my factory is opening it's doors to the public after 15 years of life as a hermit. And make sure only boys find the gold this time." 
